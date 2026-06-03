@@ -1,4 +1,4 @@
-# Pharmacy Management System  
+# Pharmacy Management System 
 
 A professional pharmacy and inventory management solution designed for medical stores and pharmacy operations.
 
